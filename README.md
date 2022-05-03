@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MaynaCM
-- 👀 I’m interested in Mobile Dev.
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on open sources Apps
-- 📫 How to reach me: search Mayna Camily in Linkedin
+- 👋 Hi, I’m Mayna, or May, you can choose! 
+I’m currently learning Python and DB, trying to know more about Data science!
+I’m looking to collaborate on open sources projects and help other users with CSS! 
+- 📫 How to reach me: search Mayna Camily in Linkedin, actually i'm working as an Front-end Dev Junior! 
 
 <!---
 MaynaCM/MaynaCM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
