@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayna, or May, you can choose! 
-I’m currently learning Python and DB, trying to know more about Data science!
-I’m looking to collaborate on open sources projects and help other users with CSS! 
+I’m currently learning React and NodeJS!
+I’m looking to collaborate on open sources projects and help other users with Front-end Development! 
 - 📫 How to reach me: search Mayna Camily in Linkedin, actually i'm working as an Front-end Dev Junior! 
 
 <!---
