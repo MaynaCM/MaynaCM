@@ -19,15 +19,13 @@ During my free time, I dedicate myself to improving my Front-end development ski
 <br>
 
 ## 🛠️Tech Stack
+
 - 👩‍💻 Programming Languages and frameworks
   
-    ![Javascript]
-
-    ![React]
-
-    ![NextJS]
-
-    ![VueJS]
+  ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
   <!--- - ☁️ Cloud
       
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
