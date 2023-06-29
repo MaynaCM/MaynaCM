@@ -10,9 +10,9 @@ During my free time, I dedicate myself to improving my Front-end development ski
 <br>
 
 ## 👩‍💻 About me
-* ![Brazil Flag](https://www.flaticon.com/svg/static/icons/svg/197/197386.svg) I'm from Brazil
+* ![Brazil https://www.flaticon.com/svg/static/icons/svg/197/197386.svg) I'm from Brazil
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
-* My favorite programming language is Javascript
+* <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>My favorite programming language is Javascript
 * 👩‍🏫 Love teaching and sharing knowledge
 * As a challenge enthusiastic, I am diving into the software engineering world
 
