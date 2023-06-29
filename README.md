@@ -22,8 +22,11 @@ During my free time, I dedicate myself to improving my Front-end development ski
 - 👩‍💻 Programming Languages and frameworks
   
     ![Javascript]
+
     ![React]
+
     ![NextJS]
+
     ![VueJS]
   <!--- - ☁️ Cloud
       
