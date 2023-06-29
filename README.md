@@ -3,9 +3,9 @@
 
 <p>My name is Mayna but you can call me May, i'm a front-end Developer and software engineering student!
 
-My previous experience as a Junior Front-end Developer has allowed me to improve my skills in HTML, CSS, JavaScript, and VueJS. I also have knowledge in Low-code and SQL, and have worked on exciting projects such as mobile applications and responsive websites using agile methodologies like Scrum, and tools like Jira, Figma, and Invision.
+My previous experience as a Junior Front-end Developer has allowed me to improve my skills in HTML, CSS, JavaScript, and VueJS. I also have knowledge in Low-code and SQL and have worked on exciting projects such as mobile applications and responsive websites using agile methodologies like Scrum, and tools like Jira, Figma, and Invision.
 
-During my free time, I dedicate myself to improving my Front-end development skills, including studying JavaScript, NodeJS, ReactJS, SCSS and Jest.
+During my free time, I dedicate myself to improving my Front-end development skills, including studying JavaScript, NodeJS, ReactJS, SCSS, and Jest.
 
 <br>
 
@@ -13,8 +13,8 @@ During my free time, I dedicate myself to improving my Front-end development ski
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="Brazil Flag" width="16" /> I'm from Brazil
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
 * <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/> My favorite programming language is Javascript
-* 👩‍🏫 Love teaching and sharing knowledge
-* As a challenge enthusiastic, I am diving into the software engineering world!
+* 👩‍🏫 Love learning and sharing knowledge
+* As a challenge enthusiast, I am diving into the software engineering world!
 
 <br>
 
