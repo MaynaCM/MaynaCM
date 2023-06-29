@@ -5,7 +5,7 @@
 
 My previous experience as a Junior Front-end Developer has allowed me to improve my skills in HTML, CSS, JavaScript, and VueJS. I also have knowledge in Low-code and SQL, and have worked on exciting projects such as mobile applications and responsive websites using agile methodologies like Scrum, and tools like Jira, Figma, and Invision.
 
-During my free time, I dedicate myself to improving my Front-end development skills, including studying JavaScript, NodeJS, Reactive.JS, SCSS and Jest.
+During my free time, I dedicate myself to improving my Front-end development skills, including studying JavaScript, NodeJS, ReactJS, SCSS and Jest.
 
 <br>
 
