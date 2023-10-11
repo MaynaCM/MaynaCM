@@ -1,7 +1,7 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-<p>My name is Mayna but you can call me May, i'm a front-end Developer and software engineering student!
+<p>My name is Mayna but you can call me May, i'm a Full-stack Developer and software engineering student!
 
 My previous experience as a Junior Front-end Developer has allowed me to improve my skills in HTML, CSS, JavaScript, and VueJS. I also have knowledge in Low-code and SQL and have worked on exciting projects such as mobile applications and responsive websites using agile methodologies like Scrum, and tools like Jira, Figma, and Invision.
 
