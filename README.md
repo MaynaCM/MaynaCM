@@ -4,31 +4,26 @@
   <strong>Software Engineer building scalable enterprise solutions.</strong>
 </p>
 
-<p align="center">
-  <img
-    src="./assets/pixel-office-1.png"
-    width="400"
-    alt="Pixel art of Mayna working at her desk"
-  />
-</p>
-
-<p align="center">
-  <i>Probably refactoring something.</i>
-</p>
-
 ---
 
-# About
+## About
+
+<img
+  align="right"
+  src="./assets/pixel-office-2.png"
+  width="280"
+  alt="Pixel art workspace"
+/>
 
 I'm a Software Engineer from Brazil with over four years of experience building scalable and maintainable web applications.
 
-I work primarily with enterprise solutions, helping teams modernize products, improve user experiences and structure reliable front-end architectures.
+I work primarily with enterprise solutions, helping teams modernize products, improve user experiences and build reliable front-end architectures.
 
-My work includes building reusable components, evolving design systems, integrating complex APIs, improving code quality and reducing technical debt across large applications.
+My work includes building reusable components, evolving design systems, integrating complex APIs and improving code quality across large applications.
 
-I enjoy collaborating closely with Product, UX/UI, Backend and QA teams to transform complex business requirements into intuitive and maintainable software.
+I enjoy collaborating closely with Product, UX/UI, Backend and QA teams to transform complex business requirements into intuitive software.
 
-Outside of work, I enjoy mentoring aspiring developers, writing about software engineering and exploring topics related to architecture, artificial intelligence and academic research.
+Outside of work, I enjoy mentoring aspiring developers, writing about software engineering and exploring artificial intelligence and software architecture.
 
 ### Currently interested in
 
@@ -38,6 +33,9 @@ Outside of work, I enjoy mentoring aspiring developers, writing about software e
 - 🏛️ Front-end Architecture
 - 🔬 Testing & Code Quality
 - 🎓 Software Engineering Research
+
+<br clear="right"/>
+
 ---
 
 # Technologies
@@ -103,7 +101,7 @@ A collection of lessons and practical advice for people beginning or navigating 
     />
   </a>
 
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/MaynaCM">
     <img
       src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
