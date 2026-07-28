@@ -5,13 +5,9 @@
 </p>
 
 <p align="center">
-  Engineering scalable products with clean architecture and thoughtful user experiences.
-</p>
-
-<p align="center">
   <img
-    src="./assets/pixel-office.png"
-    width="900"
+    src="./assets/pixel-office-1.png"
+    width="400"
     alt="Pixel art of Mayna working at her desk"
   />
 </p>
@@ -36,13 +32,12 @@ Outside of work, I enjoy mentoring aspiring developers, writing about software e
 
 ### Currently interested in
 
-- AI Engineering
-- Design Systems
-- React Ecosystem
-- Front-end Architecture
-- Testing and Code Quality
-- Software Engineering Research
-
+- 🤖 AI Engineering
+- 🧩 Design Systems
+- ⚛️ React Ecosystem
+- 🏛️ Front-end Architecture
+- 🔬 Testing & Code Quality
+- 🎓 Software Engineering Research
 ---
 
 # Technologies
