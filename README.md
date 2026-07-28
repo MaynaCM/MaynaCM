@@ -42,31 +42,31 @@ Outside of work, I enjoy mentoring aspiring developers, writing about software e
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" height="30"/>
 </p>
 
 ### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind&theme=dark" height="30"/>
 </p>
 
 ### Back-end and Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" height="30" />
 </p>
 
 ### Cloud and DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions&theme=dark" height="30"/>
 </p>
 
 ### Testing
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark"  height="30"/>
 </p>
 
 ---
