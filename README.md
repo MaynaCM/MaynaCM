@@ -4,7 +4,6 @@
   <strong>Software Engineer building scalable enterprise solutions.</strong>
 </p>
 
----
 
 ## About
 
